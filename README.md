@@ -5,7 +5,7 @@
 <img width="944" height="440" alt="malware detection" src="https://github.com/user-attachments/assets/92363ce0-c713-4503-886d-bfbe2b9b80e6" />
 <img width="959" height="507" alt="MAIN DASHBOARD" src="https://github.com/user-attachments/assets/b7cbb825-ac3e-49df-9d75-8939e93d944a" />
 <img width="959" height="445" alt="agents" src="https://github.com/user-attachments/assets/43e154f4-29ad-4db4-b8d7-750311ab2baf" />
-# 🛡️ Wazuh SIEM Home Lab
+## 🛡️ Wazuh SIEM Home Lab
 
 A fully functional Security Information and Event Management (SIEM) home lab built using Wazuh, monitoring a live Windows endpoint and detecting real security threats across multiple compliance frameworks.
 
